@@ -1,1 +1,1 @@
-- [] Actually figure out a story for this Hello World repo.
+- [ ] Actually figure out a story for this Hello World repo.
