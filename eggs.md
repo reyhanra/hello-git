@@ -1,3 +1,7 @@
-# Eggs?
+# Eggs
 
-Another placeholder name from Python...
+Mmm... eggs!
+
+(*Maybe write some recipes?*)
+
+Note: Another placeholder name from Python...
